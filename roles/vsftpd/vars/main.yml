@@ -1,0 +1,19 @@
+---
+# vars file for vsftpd
+
+#configs_vsftp:
+anonymous_access: "YES"
+access_local_users: "NO"
+edit_site: "NO"
+login_without_pass: "YES"
+print_information_ftp: "YES"
+port_min: "40000"
+port_max: "40001"
+
+vsftpd_packages: vsftpd
+ 
+firewall_comands:
+  - "firewall-cmd --add-service=ftp --perm"
+  - "firewall-cmd --add-port=40000-40001/tcp --perm"
+  - "firewall-cmd --reload"
+  - "setsebool -P ftpd_use_passive_mode on"

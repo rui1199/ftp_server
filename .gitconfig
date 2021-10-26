@@ -1,0 +1,7 @@
+[user]
+	name = Rui Pissara
+	email = rui.pissarra@kyndryl.com
+[color]
+	ui = true
+[init]
+	defaultBranch = main

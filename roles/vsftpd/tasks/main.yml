@@ -1,0 +1,14 @@
+---
+# tasks file for vsftpd
+- name: executar tasks
+  block:  
+    - include: install_enable.yml
+
+    - include: generate_template.yml
+
+    - include: executar_comandos.yml
+  rescue: 
+    - name: erros no serviço
+      debug:
+        msg: "algo correu mal, tente outra vez"
+   

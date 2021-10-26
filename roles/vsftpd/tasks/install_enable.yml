@@ -1,0 +1,11 @@
+- name: Install vsftpd
+  yum:
+    name: '{{ vsftpd_packages }}'
+    state: present
+
+- name: Ensure service is started
+  service:
+    name: '{{ vsftpd_packages }}'
+    state: restarted
+    enabled: yes
+  notify: restart vsftpd

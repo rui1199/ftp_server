@@ -1,0 +1,23 @@
+[2021-10-19 06:24:26.584] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-19 06:24:26.584] [remoteagent] [info] Extension host agent started.
+[2021-10-19 06:24:26.732] [remoteagent] [info] [127.0.0.1][e6787d0e][ExtensionHostConnection] New connection established.
+[2021-10-19 06:24:26.739] [remoteagent] [info] [127.0.0.1][f7ed79c7][ManagementConnection] New connection established.
+[2021-10-19 06:24:27.192] [remoteagent] [info] [127.0.0.1][e6787d0e][ExtensionHostConnection] <4623> Launched Extension Host Process.
+[2021-10-19 12:08:53.101] [remoteagent] [info] [127.0.0.1][f7ed79c7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-10-19 14:46:33.169] [remoteagent] [info] [127.0.0.1][f7ed79c7][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-10-19 14:46:33.171] [remoteagent] [info] [127.0.0.1][02352096][ManagementConnection] New connection established.
+[2021-10-19 14:46:33.182] [remoteagent] [info] [127.0.0.1][fb3429e1][ExtensionHostConnection] New connection established.
+[2021-10-19 14:46:33.206] [remoteagent] [info] [127.0.0.1][fb3429e1][ExtensionHostConnection] <6133> Launched Extension Host Process.
+[2021-10-19 14:51:37.162] [remoteagent] [info] [127.0.0.1][f7ed79c7][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-10-19 14:51:38.252] [remoteagent] [info] [127.0.0.1][e6787d0e][ExtensionHostConnection] <4623> Extension Host Process exited with code: 0, signal: null.
+[2021-10-19 22:42:27.753] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-19 22:58:51.619] [remoteagent] [info] [127.0.0.1][02352096][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

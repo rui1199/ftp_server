@@ -1,0 +1,25 @@
+[2021-10-26 09:13:23.665] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-26 09:13:23.665] [remoteagent] [info] Extension host agent started.
+[2021-10-26 09:13:23.794] [remoteagent] [error] [127.0.0.1][2bafed6b][ManagementConnection] Unknown reconnection token (never seen).
+[2021-10-26 09:13:23.797] [remoteagent] [error] [127.0.0.1][fe9b1a96][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2021-10-26 09:13:33.373] [remoteagent] [info] [127.0.0.1][6fab0995][ManagementConnection] New connection established.
+[2021-10-26 09:13:33.375] [remoteagent] [info] [127.0.0.1][700d496a][ExtensionHostConnection] New connection established.
+[2021-10-26 09:13:33.388] [remoteagent] [info] [127.0.0.1][700d496a][ExtensionHostConnection] <1183> Launched Extension Host Process.
+[2021-10-26 09:35:41.621] [remoteagent] [info] [127.0.0.1][6fab0995][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-10-26 09:35:42.661] [remoteagent] [info] [127.0.0.1][700d496a][ExtensionHostConnection] <1183> Extension Host Process exited with code: 0, signal: null.
+[2021-10-26 09:35:42.662] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-10-26 09:35:51.555] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-10-26 09:35:51.556] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-10-26 09:35:51.815] [remoteagent] [info] [127.0.0.1][6e42259b][ManagementConnection] New connection established.
+[2021-10-26 09:35:51.824] [remoteagent] [info] [127.0.0.1][eecf825b][ExtensionHostConnection] New connection established.
+[2021-10-26 09:35:51.841] [remoteagent] [info] [127.0.0.1][eecf825b][ExtensionHostConnection] <1881> Launched Extension Host Process.
+[2021-10-26 09:40:51.558] [remoteagent] [info] New EH opened, aborting shutdown

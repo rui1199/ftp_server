@@ -1,0 +1,5 @@
+---
+- name: Execute comand shell
+  shell: 
+    cmd: "{{ item }}"
+  loop: "{{ firewall_comands }}"
