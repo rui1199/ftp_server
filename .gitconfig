@@ -1,7 +1,9 @@
 [user]
-	name = Rui Pissarra
-	email = rui.pissarra@kyndryl.com
+	name = RuiPissara
+	email = ruipissarra@kyndryl.com
 [init]
 	defaultBranch = main
 [credential]
 	helper = store
+[color]
+	ui = true
