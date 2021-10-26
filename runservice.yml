@@ -1,6 +1,6 @@
 ---
 - name: run ftp server
   hosts: control 
-  become: no
+  become: yes
   roles:
     - vsftpd
