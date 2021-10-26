@@ -15,3 +15,5 @@ shutdown
 ssh slave@192.168.1.72
 ssh-keygen -t rsa -b 4096 -C "rui.pissarra@kyndryl.com"
 cat .ssh/id_rsa.pub 
+exite
+exit
