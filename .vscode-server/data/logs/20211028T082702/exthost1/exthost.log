@@ -1,0 +1,19 @@
+[2021-10-28 08:27:07.488] [exthost] [info] extension host started
+[2021-10-28 08:27:07.519] [exthost] [error] Error: EEXIST: file already exists, open '/home/p_master/.vscode-server/data/User/workspaceStorage/af9e310116ac58e1e7d2562db8bef255/vscode.lock'
+[2021-10-28 08:27:07.621] [exthost] [info] Lock '/home/p_master/.vscode-server/data/User/workspaceStorage/af9e310116ac58e1e7d2562db8bef255/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-10-28 08:27:07.646] [exthost] [info] Lock '/home/p_master/.vscode-server/data/User/workspaceStorage/af9e310116ac58e1e7d2562db8bef255/vscode.lock': The pid 1296 appears to be gone.
+[2021-10-28 08:27:07.646] [exthost] [info] Lock '/home/p_master/.vscode-server/data/User/workspaceStorage/af9e310116ac58e1e7d2562db8bef255/vscode.lock': Deleting a stale lock.
+[2021-10-28 08:27:07.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-28 08:27:07.819] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/debug-auto-launch/dist/extension
+[2021-10-28 08:27:07.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-28 08:27:07.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/git/dist/main
+[2021-10-28 08:27:08.132] [exthost] [info] Lock '/home/p_master/.vscode-server/data/User/workspaceStorage/af9e310116ac58e1e7d2562db8bef255/vscode.lock': Lock acquired.
+[2021-10-28 08:27:08.587] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-28 08:27:08.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-28 08:27:10.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-28 08:27:10.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/github/dist/extension.js
+[2021-10-28 08:27:10.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 08:27:10.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-28 08:27:11.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 08:27:11.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/p_master/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-28 08:27:11.016] [exthost] [info] eager extensions activated
